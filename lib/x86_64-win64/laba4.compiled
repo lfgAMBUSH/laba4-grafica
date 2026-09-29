@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Code\Tools\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1556502373"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq &quot;-FiC:\Education\3_Course\5 семестр\Графика\4лаба\lib\x86_64-win64&quot; &quot;-FuC:\Education\3_Course\5 семестр\Графика\4лаба\&quot; -FuC:\Code\Tools\lazarus\lcl\units\x86_64-win64\win32 -FuC:\Code\Tools\lazarus\lcl\units\x86_64-win64 -FuC:\Code\Tools\lazarus\components\freetype\lib\x86_64-win64 -FuC:\Code\Tools\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Code\Tools\lazarus\packager\units\x86_64-win64 &quot;-FUC:\Education\3_Course\5 семестр\Графика\4лаба\lib\x86_64-win64\&quot; &quot;-FEC:\Education\3_Course\5 семестр\Графика\4лаба\&quot; &quot;-oC:\Education\3_Course\5 семестр\Графика\4лаба\laba4.exe&quot; -dLCL -dLCLwin32 laba4.lpr"/>
+</CONFIG>

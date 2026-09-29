@@ -1,0 +1,5 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<!-- Чтобы изменить сторону квадрата, нужно поменять width и height у rect -->
+<!-- для квадрата width и height должны быть одинаковыми -->
+<rect x="100" y="100" width="200" height="200"/>
+</svg>
